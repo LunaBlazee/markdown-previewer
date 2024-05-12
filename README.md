@@ -1,6 +1,12 @@
 # React + Vite
+Step1:
+npm create vite@latest
+step2:
+npm install
+step3:
+npm run dev
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.![markdown](https://github.com/LunaBlazee/markdown-previewer/assets/162085668/3a0f9c9c-dc7e-4ab0-8a70-b5357e722d0b)
 
 Currently, two official plugins are available:
 
